@@ -1,0 +1,28 @@
+{
+  "name": "devlab",
+  "version": "1.0.0",
+  "description": "Projeto - DevLab YouTube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorjobs/Dev_Lab.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "git",
+    "TDD"
+  ],
+  "author": "Vítor Guedes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitorjobs/Dev_Lab/issues"
+  },
+  "homepage": "https://github.com/vitorjobs/Dev_Lab#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
